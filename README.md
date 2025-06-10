@@ -46,6 +46,13 @@ This project focuses on network discovery scan.
 ---
 ### Step 3) Scan Results
 
-<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/f374888f-bc14-492b-9ccc-8fd98b192afd" />
+#### Vulns by Plugin
+
+<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/ae7ff20f-118c-4b29-93da-9f8c5aeccc33" />
+
+
+#### Vulns by Asset
+
+<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/a1c0e208-5396-4130-9885-631b621dbaba" />
 
 ---
