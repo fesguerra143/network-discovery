@@ -2,7 +2,7 @@
 
 # Scanning for Vulnerabilities Project 
 
-This project focuses on network discovery scan. 
+This project involves performing a comprehensive network discovery scan across the entire subnet.
 
 <img width="800" alt="agent" src="https://github.com/user-attachments/assets/8ed67b56-07b1-475d-993e-1c2be869c670" />
 
