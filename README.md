@@ -15,14 +15,9 @@ This project focuses on network discovery scan.
 ---
 # Table of contents
 
-- [Step 1) Provision a Windows virtual machine in the Azure portal](#step-1-provision-a-windows-virtual-machine-in-the-azure-portal)
-- [Step 2) Tenable - Create an Agent Group](#step-2-tenable---create-an-agent-group)
-- [Step 3) Tenable - Create a Scan](#step-3-tenable---create-a-scan)
-- [Step 4) Remote Desktop Connection](#step-4-remote-desktop-connection)
-- [Step 5) Install the Nessus Agent by running a PowerShell command:](#step-5-install-the-nessus-agent-by-running-a-powershell-command)
-- [Step 6) Create a start.txt file](#step-6-create-a-starttxt-file)
-- [Step 7) start.txt file deleted](#step-7-starttxt-file-deleted)
-- [Step 8) Agent Scan Results](#step-8-agent-scan-results)
+- [Step 1) Select a Scan Template - Host Discover](#step-1-select-a-scan-template---host-discover)
+- [Step 2) Tenable - Create a Scan](#step-2-tenable---create-a-scan)
+- [Step 3) Scan Results](#step-3-scan-results)
 
 ---
 
