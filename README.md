@@ -23,7 +23,7 @@ This project involves performing a comprehensive network discovery scan across t
 
 ### Step 1) Select a Scan Template - Host Discover
 
-<img width="600" alt="vm1" src="https://github.com/user-attachments/assets/7aa44232-ad12-4173-a8f4-c98536ca4dee" />
+<img width="800" alt="vm1" src="https://github.com/user-attachments/assets/7aa44232-ad12-4173-a8f4-c98536ca4dee" />
 
 ---
 
@@ -31,11 +31,11 @@ This project involves performing a comprehensive network discovery scan across t
 
 #### Basic Settings
 
-<img width="600" alt="agent" src="https://github.com/user-attachments/assets/56c7b975-fc26-4f26-b493-b9b41c8cb5d0" />
+<img width="800" alt="agent" src="https://github.com/user-attachments/assets/56c7b975-fc26-4f26-b493-b9b41c8cb5d0" />
 
 #### Discovery Settings
 
-<img width="600" alt="agent" src="https://github.com/user-attachments/assets/daaeb704-f129-40f1-a84f-8704b7b04a01" />
+<img width="800" alt="agent" src="https://github.com/user-attachments/assets/daaeb704-f129-40f1-a84f-8704b7b04a01" />
 
 
 ---
@@ -43,11 +43,11 @@ This project involves performing a comprehensive network discovery scan across t
 
 #### Vulns by Plugin
 
-<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/ae7ff20f-118c-4b29-93da-9f8c5aeccc33" />
+<img width="800" alt="powershell" src="https://github.com/user-attachments/assets/ae7ff20f-118c-4b29-93da-9f8c5aeccc33" />
 
 
 #### Vulns by Asset
 
-<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/a1c0e208-5396-4130-9885-631b621dbaba" />
+<img width="800" alt="powershell" src="https://github.com/user-attachments/assets/a1c0e208-5396-4130-9885-631b621dbaba" />
 
 ---
