@@ -4,7 +4,7 @@
 
 This project focuses on network discovery scan. 
 
-<img width="600" alt="agent" src="https://github.com/user-attachments/assets/8ed67b56-07b1-475d-993e-1c2be869c670" />
+<img width="800" alt="agent" src="https://github.com/user-attachments/assets/8ed67b56-07b1-475d-993e-1c2be869c670" />
 
 ---
 # Tools & Technology:
